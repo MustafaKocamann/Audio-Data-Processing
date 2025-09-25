@@ -1,7 +1,7 @@
 # 🎧 Speech Emotion Analysis
 ## 📌 Proje Hakkında
 * Bu proje, ses sinyallerinden duyguların analizi üzerine odaklanmaktadır.
-* Amaç, ham ses verilerini işleyip çeşitli özellikler (MFCC, ZCR, RMS vb.) çıkararak duygulara göre farklılıklarını görselleştirmek ve ses işleme sürecine dair kapsamlı bir çalışma sunmaktır.
+* Amaç, ham ses verilerini işleyip çeşitli özellikler (MFCC, ZCR, RMS vb.) çıkararak duygulara göre farklılıklarını görselleştirmek ve ses işleme sürecine dair  bir çalışma sunmaktır.
 
 ## 🎯 Amaçlar
 * Ses verilerini işleme ve görselleştirme tekniklerini öğrenmek
